@@ -1,0 +1,23 @@
+.whiteboard-container {
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.whiteboard-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.whiteboard-wrapper {
+  border: 2px solid #000;
+  margin: 0 auto;
+  display: inline-block;
+  background-color: #fff;
+}
+
+.whiteboard-canvas {
+  cursor: crosshair;
+}
